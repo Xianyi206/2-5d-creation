@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏活动页丝滑动效"
+  short_description: "复刻高规格游戏活动页的骨骼角色、分层景深与丝滑转场"
+  default_prompt: "使用 $game-event-web-animation 分析参考并实现一个高规格游戏活动网页动效。"
