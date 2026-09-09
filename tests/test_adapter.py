@@ -8,7 +8,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-SCRIPT=Path(__file__).resolve().parents[1] / 'skills/game-event-web-animation/scripts/seethrough_remote.py'
+SCRIPT=Path(__file__).resolve().parents[1] / 'skills/2-5d-creation/scripts/seethrough_remote.py'
 spec=importlib.util.spec_from_file_location('adapter',SCRIPT)
 adapter=importlib.util.module_from_spec(spec)
 spec.loader.exec_module(adapter)

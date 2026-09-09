@@ -1,9 +1,9 @@
 ---
-name: game-event-web-animation
-description: Design, implement, diagnose, or reproduce high-polish 2D game-event and H5 web animation with layered character art, Spine rigs, parallax scenes, particles, cinematic transitions, and responsive performance. Use for 原神式、二次元游戏大活动页、版本活动 H5、灵动角色立绘或类似网页动效复刻；do not use for ordinary marketing pages or isolated CSS micro-interactions.
+name: 2-5d-creation
+description: Design, implement, diagnose, or reproduce high-polish 2.5D layered web scenes for game-event and H5 pages with layered character art, Spine rigs, parallax scenes, particles, cinematic transitions, and responsive performance. Use for 2.5D 创作、分层视差场景、原神式、二次元游戏大活动页、版本活动 H5、灵动角色立绘或类似网页动效复刻；do not use for ordinary marketing pages or isolated CSS micro-interactions.
 ---
 
-# Game Event Web Animation
+# 2.5D 创作 Skill
 
 Build the illusion from many restrained, independently timed layers. Do not substitute one large whole-character scale tween for character animation.
 

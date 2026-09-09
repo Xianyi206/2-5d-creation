@@ -1,0 +1,4 @@
+interface:
+  display_name: "2.5D 创作 Skill"
+  short_description: "创作具有分层景深、角色运动、粒子与转场的 2.5D 网页场景"
+  default_prompt: "使用 $2-5d-creation 分析参考与素材，并实现分层视差、角色动效和转场组成的 2.5D 网页场景。"
